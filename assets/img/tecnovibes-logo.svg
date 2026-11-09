@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238 52" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">TecnoVibes</title>
+  <g fill="none" stroke="#80f0d0" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="6" width="40" height="40" rx="11" fill="#14253a" stroke="#27465a" stroke-width="1.5"/>
+    <path d="M12 17h20M22 17v18" stroke-width="3.5"/>
+    <path d="M22 28h10" stroke-width="3.5"/>
+    <circle cx="32" cy="28" r="2.5" fill="#80f0d0" stroke="none"/>
+  </g>
+  <text x="52" y="36" fill="#f7fafb" font-family="Manrope, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-1.2">Tecno</text>
+  <text x="130" y="36" fill="#80f0d0" font-family="Manrope, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-1.2">Vibes</text>
+</svg>
