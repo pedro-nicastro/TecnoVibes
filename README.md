@@ -32,6 +32,8 @@ TecnoVibes/
 │   ├── css/
 │   │   └── style.css
 │   └── img/
+│       ├── tecnovibes-logo.svg
+│       └── favicon.svg
 └── index.html
 ```
 
@@ -40,6 +42,7 @@ TecnoVibes/
 - Edite o conteúdo e os links das seções em `index.html`.
 - Ajuste cores, tipografia e comportamento responsivo em `assets/css/style.css`.
 - Substitua as imagens dentro de `assets/img/` mantendo os nomes usados no HTML, ou atualize os caminhos correspondentes.
+- A marca principal e o ícone da aba do navegador ficam em `assets/img/tecnovibes-logo.svg` e `assets/img/favicon.svg`.
 - Atualize o endereço `contato@tecnovibes.com` no formulário para o e-mail real do projeto.
 - As fontes DM Sans e Manrope são carregadas pelo Google Fonts; se não houver conexão, o navegador usa uma fonte sans-serif alternativa.
 
